@@ -10,4 +10,3 @@ for i in brr:
     if i not in arr:
         d.append(i)
 print(len(set(c+d)))
-            
